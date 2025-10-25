@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Duskraven Support | Uganda</title>
+  <style>
+    body { 
+      margin: 0; padding: 0; 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+      background: #0f0f0f; color: #f0f0f0; 
+      line-height: 1.6; 
+    }
+    .container { max-width: 600px; margin: 60px auto; padding: 30px; text-align: center; }
+    h1 { 
+      font-size: 2.2em; color: #a855f7; margin-bottom: 10px; 
+      font-weight: 700; 
+    }
+    h2 { font-size: 1.4em; color: #00d4ff; margin-top: 30px; }
+    p { font-size: 1.1em; margin: 15px 0; }
+    .contact { 
+      background: #1a1a1a; padding: 20px; border-radius: 12px; margin: 25px 0; 
+      border: 1px solid #333; 
+    }
+    .contact a { 
+      color: #00d4ff; text-decoration: none; font-weight: 600; 
+      font-size: 1.15em; 
+    }
+    .contact a:hover { text-decoration: underline; }
+    .note { font-size: 0.95em; color: #aaa; margin-top: 40px; }
+    hr { border: 0; border-top: 1px solid #333; margin: 40px 0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Duskraven Support</h1>
+    <p>We’re here to help you hustle smarter.</p>
+
+    <div class="contact">
+      <p><strong>Email:</strong> <a href="mailto:duskravn@gmail.com">duskravn@gmail.com</a></p>
+      <p><strong>WhatsApp:</strong> <a href="https://wa.me/256775129752">+256 775 129 752</a></p>
+    </div>
+
+    <h2>Common Issues</h2>
+    <p><strong>Can’t log in?</strong> Try resetting password or use “Forgot Password”.</p>
+    <p><strong>Product not showing?</strong> Check internet and refresh. Listings appear in 1–2 mins.</p>
+    <p><strong>Booking failed?</strong> Artist may be offline — message them directly.</p>
+
+    <h2>Response Time</h2>
+    <p>We reply within <strong>24 hours</strong> — usually faster.</p>
+
+    <hr>
+    <p class="note">Duskraven v1.0 | Made with ❤️ in Kampala, Uganda</p>
+  </div>
+</body>
+</html>
